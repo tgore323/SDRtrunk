@@ -1,0 +1,368 @@
+<playlist version="4">
+  <alias color="0" group="28000" list="KC Metro TGs" name="SERVICE CONTROL MGMT">
+    <id type="talkgroup" protocol="APCO25" value="28000"/>
+  </alias>
+  <alias color="0" group="28001" list="KC Metro TGs" name="BUS BROADCAST DEFAULT">
+    <id type="talkgroup" protocol="APCO25" value="28001"/>
+  </alias>
+  <alias color="0" group="28002" list="KC Metro TGs" name="FB ANNOUNCEMENT DEFAULT">
+    <id type="talkgroup" protocol="APCO25" value="28002"/>
+  </alias>
+  <alias color="0" group="28003" list="KC Metro TGs" name="TRANS COORD 1">
+    <id type="talkgroup" protocol="APCO25" value="28003"/>
+  </alias>
+  <alias color="0" group="28004" list="KC Metro TGs" name="TRANS COORD 2">
+    <id type="talkgroup" protocol="APCO25" value="28004"/>
+  </alias>
+  <alias color="0" group="28005" list="KC Metro TGs" name="TRANS COORD 3">
+    <id type="talkgroup" protocol="APCO25" value="28005"/>
+  </alias>
+  <alias color="0" group="28006" list="KC Metro TGs" name="TRANS COORD 4">
+    <id type="talkgroup" protocol="APCO25" value="28006"/>
+  </alias>
+  <alias color="0" group="28007" list="KC Metro TGs" name="TRANS COORD 5">
+    <id type="talkgroup" protocol="APCO25" value="28007"/>
+  </alias>
+  <alias color="0" group="28008" list="KC Metro TGs" name="TRANS COORD 6">
+    <id type="talkgroup" protocol="APCO25" value="28008"/>
+  </alias>
+  <alias color="0" group="28009" list="KC Metro TGs" name="TRANS COORD 7">
+    <id type="talkgroup" protocol="APCO25" value="28009"/>
+  </alias>
+  <alias color="0" group="28010" list="KC Metro TGs" name="TRANS COORD 8">
+    <id type="talkgroup" protocol="APCO25" value="28010"/>
+  </alias>
+  <alias color="0" group="28011" list="KC Metro TGs" name="TRANS COORD 9">
+    <id type="talkgroup" protocol="APCO25" value="28011"/>
+  </alias>
+  <alias color="0" group="28012" list="KC Metro TGs" name="TRANS COORD 10">
+    <id type="talkgroup" protocol="APCO25" value="28012"/>
+  </alias>
+  <alias color="0" group="28013" list="KC Metro TGs" name="TRANS COORD 11">
+    <id type="talkgroup" protocol="APCO25" value="28013"/>
+  </alias>
+  <alias color="0" group="28014" list="KC Metro TGs" name="TRANS COORD FB 1">
+    <id type="talkgroup" protocol="APCO25" value="28014"/>
+  </alias>
+  <alias color="0" group="28015" list="KC Metro TGs" name="TRANS COORD FB 2">
+    <id type="talkgroup" protocol="APCO25" value="28015"/>
+  </alias>
+  <alias color="0" group="28016" list="KC Metro TGs" name="TRANS COORD FB 3">
+    <id type="talkgroup" protocol="APCO25" value="28016"/>
+  </alias>
+  <alias color="0" group="28017" list="KC Metro TGs" name="TRANS COORD FB 4">
+    <id type="talkgroup" protocol="APCO25" value="28017"/>
+  </alias>
+  <alias color="0" group="28018" list="KC Metro TGs" name="TRANS COORD FB 5">
+    <id type="talkgroup" protocol="APCO25" value="28018"/>
+  </alias>
+  <alias color="0" group="28019" list="KC Metro TGs" name="TRANS COORD FB 6">
+    <id type="talkgroup" protocol="APCO25" value="28019"/>
+  </alias>
+  <alias color="0" group="28020" list="KC Metro TGs" name="TRANS COORD FB 7">
+    <id type="talkgroup" protocol="APCO25" value="28020"/>
+  </alias>
+  <alias color="0" group="28021" list="KC Metro TGs" name="TRANS COORD FB 8">
+    <id type="talkgroup" protocol="APCO25" value="28021"/>
+  </alias>
+  <alias color="0" group="28022" list="KC Metro TGs" name="TRANS COORD FB 9">
+    <id type="talkgroup" protocol="APCO25" value="28022"/>
+  </alias>
+  <alias color="0" group="28023" list="KC Metro TGs" name="TRANS COORD FB 10">
+    <id type="talkgroup" protocol="APCO25" value="28023"/>
+  </alias>
+  <alias color="0" group="28024" list="KC Metro TGs" name="TRANS COORD FB 11">
+    <id type="talkgroup" protocol="APCO25" value="28024"/>
+  </alias>
+  <alias color="0" group="28025" list="KC Metro TGs" name="FIELD OPS">
+    <id type="talkgroup" protocol="APCO25" value="28025"/>
+  </alias>
+  <alias color="0" group="28026" list="KC Metro TGs" name="SERVICE QUAL - TAC 1">
+    <id type="talkgroup" protocol="APCO25" value="28026"/>
+  </alias>
+  <alias color="0" group="28027" list="KC Metro TGs" name="SERVICE QUAL - TAC 2">
+    <id type="talkgroup" protocol="APCO25" value="28027"/>
+  </alias>
+  <alias color="0" group="28028" list="KC Metro TGs" name="VEHICLE MAINT">
+    <id type="talkgroup" protocol="APCO25" value="28028"/>
+  </alias>
+  <alias color="0" group="28029" list="KC Metro TGs" name="POWER DIST 1">
+    <id type="talkgroup" protocol="APCO25" value="28029"/>
+  </alias>
+  <alias color="0" group="28030" list="KC Metro TGs" name="POWER DIST 2">
+    <id type="talkgroup" protocol="APCO25" value="28030"/>
+  </alias>
+  <alias color="0" group="28031" list="KC Metro TGs" name="POWER DIST 3">
+    <id type="talkgroup" protocol="APCO25" value="28031"/>
+  </alias>
+  <alias color="0" group="28032" list="KC Metro TGs" name="RADIO MAINT 1">
+    <id type="talkgroup" protocol="APCO25" value="28032"/>
+  </alias>
+  <alias color="0" group="28033" list="KC Metro TGs" name="FAC MAINT 1">
+    <id type="talkgroup" protocol="APCO25" value="28033"/>
+  </alias>
+  <alias color="0" group="28034" list="KC Metro TGs" name="FAC MAINT 2">
+    <id type="talkgroup" protocol="APCO25" value="28034"/>
+  </alias>
+  <alias color="0" group="28035" list="KC Metro TGs" name="DSTT MAINT">
+    <id type="talkgroup" protocol="APCO25" value="28035"/>
+  </alias>
+  <alias color="0" group="28036" list="KC Metro TGs" name="SAFETY">
+    <id type="talkgroup" protocol="APCO25" value="28036"/>
+  </alias>
+  <alias color="0" group="28037" list="KC Metro TGs" name="FACILITIES SEC">
+    <id type="talkgroup" protocol="APCO25" value="28037"/>
+  </alias>
+  <alias color="0" group="28038" list="KC Metro TGs" name="FAC SEC - TAC 1">
+    <id type="talkgroup" protocol="APCO25" value="28038"/>
+  </alias>
+  <alias color="0" group="28039" list="KC Metro TGs" name="BASE CARS">
+    <id type="talkgroup" protocol="APCO25" value="28039"/>
+  </alias>
+  <alias color="0" group="28040" list="KC Metro TGs" name="INCIDENT COMMAND">
+    <id type="talkgroup" protocol="APCO25" value="28040"/>
+  </alias>
+  <alias color="0" group="28041" list="KC Metro TGs" name="INCIDENT OPS">
+    <id type="talkgroup" protocol="APCO25" value="28041"/>
+  </alias>
+  <alias color="0" group="28042" list="KC Metro TGs" name="INCIDENT LOGISTICS">
+    <id type="talkgroup" protocol="APCO25" value="28042"/>
+  </alias>
+  <alias color="0" group="28043" list="KC Metro TGs" name="RADIO MAINT 2">
+    <id type="talkgroup" protocol="APCO25" value="28043"/>
+  </alias>
+  <alias color="0" group="28044" list="KC Metro TGs" name="RADIO MAINT 3">
+    <id type="talkgroup" protocol="APCO25" value="28044"/>
+  </alias>
+  <alias color="0" group="28045" list="KC Metro TGs" name="TEST TG 1">
+    <id type="talkgroup" protocol="APCO25" value="28045"/>
+  </alias>
+  <alias color="0" group="28046" list="KC Metro TGs" name="TEST TG 2">
+    <id type="talkgroup" protocol="APCO25" value="28046"/>
+  </alias>
+  <alias color="0" group="28047" list="KC Metro TGs" name="TEST TG 3">
+    <id type="talkgroup" protocol="APCO25" value="28047"/>
+  </alias>
+  <alias color="0" group="28048" list="KC Metro TGs" name="DSTT OPS">
+    <id type="talkgroup" protocol="APCO25" value="28048"/>
+  </alias>
+  <alias color="0" group="28049" list="KC Metro TGs" name="STREETCAR OPS">
+    <id type="talkgroup" protocol="APCO25" value="28049"/>
+  </alias>
+  <alias color="0" group="28050" list="KC Metro TGs" name="STREETCAR SUP">
+    <id type="talkgroup" protocol="APCO25" value="28050"/>
+  </alias>
+  <alias color="0" group="28051" list="KC Metro TGs" name="POWER FACILITIES">
+    <id type="talkgroup" protocol="APCO25" value="28051"/>
+  </alias>
+  <alias color="0" group="28052" list="KC Metro TGs" name="BUS FB MULTIGRP">
+    <id type="talkgroup" protocol="APCO25" value="28052"/>
+  </alias>
+  <alias color="0" group="28053" list="KC Metro TGs" name="EMER MULTIGRP">
+    <id type="talkgroup" protocol="APCO25" value="28053"/>
+  </alias>
+  <alias color="0" group="28054" list="KC Metro TGs" name="METRO LNK OPS 1">
+    <id type="talkgroup" protocol="APCO25" value="28054"/>
+  </alias>
+  <alias color="0" group="28055" list="KC Metro TGs" name="METRO LNK OPS 2">
+    <id type="talkgroup" protocol="APCO25" value="28055"/>
+  </alias>
+  <alias color="0" group="28056" list="KC Metro TGs" name="DSTT OPS">
+    <id type="talkgroup" protocol="APCO25" value="28056"/>
+  </alias>
+  <alias color="0" group="28057" list="KC Metro TGs" name="YARD OPS">
+    <id type="talkgroup" protocol="APCO25" value="28057"/>
+  </alias>
+  <alias color="0" group="28058" list="KC Metro TGs" name="MAINT 1">
+    <id type="talkgroup" protocol="APCO25" value="28058"/>
+  </alias>
+  <alias color="0" group="28059" list="KC Metro TGs" name="MAINT 2">
+    <id type="talkgroup" protocol="APCO25" value="28059"/>
+  </alias>
+  <alias color="0" group="28060" list="KC Metro TGs" name="DSTT MAINT">
+    <id type="talkgroup" protocol="APCO25" value="28060"/>
+  </alias>
+  <alias color="0" group="28061" list="KC Metro TGs" name="FARE INSPECTION">
+    <id type="talkgroup" protocol="APCO25" value="28061"/>
+  </alias>
+  <alias color="0" group="28062" list="KC Metro TGs" name="SECURITY 1">
+    <id type="talkgroup" protocol="APCO25" value="28062"/>
+  </alias>
+  <alias color="0" group="28063" list="KC Metro TGs" name="SECURITY 2">
+    <id type="talkgroup" protocol="APCO25" value="28063"/>
+  </alias>
+  <alias color="0" group="28064" list="KC Metro TGs" name="SND TRANS MULTIGRP">
+    <id type="talkgroup" protocol="APCO25" value="28064"/>
+  </alias>
+  <alias color="0" group="DIST 1" list="WA State Patrol TG" name="CAR 1">
+    <id type="talkgroup" protocol="APCO25" value="59101"/>
+  </alias>
+  <alias color="0" group="DIST 1" list="WA State Patrol TG" name="CAR 2">
+    <id type="talkgroup" protocol="APCO25" value="59102"/>
+  </alias>
+  <alias color="0" group="DIST 1" list="WA State Patrol TG" name="CAR 3">
+    <id type="talkgroup" protocol="APCO25" value="59103"/>
+  </alias>
+  <alias color="0" group="DIST 1" list="WA State Patrol TG" name="OLYMPIA AREA">
+    <id type="talkgroup" protocol="APCO25" value="59108"/>
+  </alias>
+  <alias color="0" group="DIST 1" list="WA State Patrol TG" name="EAST PIERCE">
+    <id type="talkgroup" protocol="APCO25" value="59109"/>
+  </alias>
+  <alias color="0" group="DIST 1" list="WA State Patrol TG" name="WEST PIERCE">
+    <id type="talkgroup" protocol="APCO25" value="59110"/>
+  </alias>
+  <alias color="0" group="DIST 1" list="WA State Patrol TG" name="WSP ACADEMY">
+    <id type="talkgroup" protocol="APCO25" value="59950"/>
+  </alias>
+  <alias color="0" group="DIST 2" list="WA State Patrol TG" name="CAR 1">
+    <id type="talkgroup" protocol="APCO25" value="59201"/>
+  </alias>
+  <alias color="0" group="DIST 2" list="WA State Patrol TG" name="CAR 2 SEATTLE">
+    <id type="talkgroup" protocol="APCO25" value="59202"/>
+  </alias>
+  <alias color="0" group="DIST 2" list="WA State Patrol TG" name="CAR 3">
+    <id type="talkgroup" protocol="APCO25" value="59203"/>
+  </alias>
+  <alias color="0" group="DIST 2" list="WA State Patrol TG" name="SEATTLE METRO DISP">
+    <id type="talkgroup" protocol="APCO25" value="59208"/>
+  </alias>
+  <alias color="0" group="DIST 2" list="WA State Patrol TG" name="SEATTLE N KING DISP">
+    <id type="talkgroup" protocol="APCO25" value="59209"/>
+  </alias>
+  <alias color="0" group="DIST 2" list="WA State Patrol TG" name="SOUTH KING DISP">
+    <id type="talkgroup" protocol="APCO25" value="59210"/>
+  </alias>
+  <alias color="0" group="DIST 2" list="WA State Patrol TG" name="KING DISPATCH">
+    <id type="talkgroup" protocol="APCO25" value="59211"/>
+  </alias>
+  <alias color="0" group="DIST 2" list="WA State Patrol TG" name="DIST 2 AREA">
+    <id type="talkgroup" protocol="APCO25" value="59212"/>
+  </alias>
+  <alias color="0" group="PORT POLICE" list="Port of Seattle" name="PD DISPATCH">
+    <id type="talkgroup" protocol="APCO25" value="61001"/>
+  </alias>
+  <alias color="0" group="PORT FIRE" list="Port of Seattle" name="PORT FD 1">
+    <id type="talkgroup" protocol="APCO25" value="61102"/>
+  </alias>
+  <alias color="0" group="PORT FIRE" list="Port of Seattle" name="PORT FD 2">
+    <id type="talkgroup" protocol="APCO25" value="61103"/>
+  </alias>
+  <alias color="0" group="PORT FIRE" list="Port of Seattle" name="FD DISPATCH">
+    <id type="talkgroup" protocol="APCO25" value="61104"/>
+  </alias>
+  <alias color="0" group="PORT SERVICES" list="Port of Seattle" name="MAINTENANCE SERVICES">
+    <id type="talkgroup" protocol="APCO25" value="61201"/>
+  </alias>
+  <alias color="0" group="PORT SERVICES" list="Port of Seattle" name="MAINTENANCE ADMIN">
+    <id type="talkgroup" protocol="APCO25" value="61209"/>
+  </alias>
+  <alias color="0" group="PORT SERVICES" list="Port of Seattle" name="AUTO SHOP">
+    <id type="talkgroup" protocol="APCO25" value="61601"/>
+  </alias>
+  <alias color="0" group="PORT SERVICES" list="Port of Seattle" name="FISHERMAN'S TERMINAL">
+    <id type="talkgroup" protocol="APCO25" value="61609"/>
+  </alias>
+  <alias color="0" group="RADIO TECH" list="PSERN" name="TECHNICIAN 1">
+    <id type="talkgroup" protocol="APCO25" value="50001"/>
+  </alias>
+  <alias color="0" group="RADIO TECH" list="PSERN" name="TECHNICIAN 2">
+    <id type="talkgroup" protocol="APCO25" value="50002"/>
+  </alias>
+  <alias color="0" group="RADIO TECH" list="PSERN" name="TECHNICIAN 3">
+    <id type="talkgroup" protocol="APCO25" value="50003"/>
+  </alias>
+  <alias color="0" group="RADIO TECH" list="PSERN" name="TECHNICIAN 4">
+    <id type="talkgroup" protocol="APCO25" value="50004"/>
+  </alias>
+  <alias color="0" group="RADIO TECH" list="PSERN" name="TECHNICIAN 5">
+    <id type="talkgroup" protocol="APCO25" value="50005"/>
+  </alias>
+  <alias color="0" group="RADIO TECH" list="PSERN" name="TECHNICIAN 6">
+    <id type="talkgroup" protocol="APCO25" value="50006"/>
+  </alias>
+  <alias color="0" group="RADIO TECH" list="PSERN" name="TECHNICIAN 7">
+    <id type="talkgroup" protocol="APCO25" value="50007"/>
+  </alias>
+  <alias color="0" group="RADIO TECH" list="PSERN" name="TECHNICIAN 8">
+    <id type="talkgroup" protocol="APCO25" value="50008"/>
+  </alias>
+  <alias color="0" group="RADIO TECH" list="PSERN" name="TECHNICIAN 9">
+    <id type="talkgroup" protocol="APCO25" value="50009"/>
+  </alias>
+  <alias color="0" group="RADIO TECH" list="PSERN" name="TECHNICIAN 10">
+    <id type="talkgroup" protocol="APCO25" value="50010"/>
+  </alias>
+  <alias color="0" group="SEATTLE PD" list="PSERN" name="SOUTH DISP">
+    <id type="talkgroup" protocol="APCO25" value="207"/>
+  </alias>
+  <channel_map name="New Channel Map"/>
+  <channel system="KC Metro Transit" enabled="false" site="001" order="1">
+    <alias_list_name>KC Metro TGs</alias_list_name>
+    <event_log_configuration/>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="400" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>774381250</frequency>
+      <frequency>774393750</frequency>
+      <frequency>774631250</frequency>
+      <frequency>774643750</frequency>
+      <frequency>769518750</frequency>
+      <frequency>770018750</frequency>
+      <frequency>770268750</frequency>
+      <frequency>770506250</frequency>
+      <frequency>770518750</frequency>
+      <frequency>774131250</frequency>
+      <frequency>774143750</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="CQPSK" traffic_channel_pool_size="3" ignore_data_calls="true"/>
+    <record_configuration/>
+  </channel>
+  <channel system="WA State Patrol" enabled="false" site="001" order="1" name="King Simulcast">
+    <alias_list_name>WA State Patrol TG</alias_list_name>
+    <event_log_configuration/>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="400" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>774031250</frequency>
+      <frequency>774281250</frequency>
+      <frequency>769218750</frequency>
+      <frequency>769468750</frequency>
+      <frequency>774531250</frequency>
+      <frequency>774781250</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="CQPSK" traffic_channel_pool_size="3" ignore_data_calls="true"/>
+    <record_configuration/>
+  </channel>
+  <channel system="Port of Seattle" enabled="false" site="010" order="1" name="Seattle">
+    <alias_list_name>Port of Seattle</alias_list_name>
+    <event_log_configuration/>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="400" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>851262500</frequency>
+      <frequency>851312500</frequency>
+      <frequency>851662500</frequency>
+      <frequency>852337500</frequency>
+      <frequency>852387500</frequency>
+      <frequency>854437500</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="C4FM" traffic_channel_pool_size="3" ignore_data_calls="true"/>
+    <record_configuration/>
+  </channel>
+  <channel system="PSERN" enabled="false" site="025" order="1" name="SEATTLE / EASTSIDE">
+    <alias_list_name>PSERN</alias_list_name>
+    <event_log_configuration>
+      <logger>CALL_EVENT</logger>
+      <logger>DECODED_MESSAGE</logger>
+      <logger>TRAFFIC_CALL_EVENT</logger>
+      <logger>TRAFFIC_DECODED_MESSAGE</logger>
+    </event_log_configuration>
+    <source_configuration type="sourceConfigTunerMultipleFrequency" frequency_rotation_delay="400" source_type="TUNER_MULTIPLE_FREQUENCIES">
+      <frequency>854287500</frequency>
+      <frequency>851887500</frequency>
+      <frequency>852862500</frequency>
+      <frequency>853825000</frequency>
+    </source_configuration>
+    <aux_decode_configuration/>
+    <decode_configuration type="decodeConfigP25Phase1" modulation="CQPSK" traffic_channel_pool_size="3" ignore_data_calls="false"/>
+    <record_configuration/>
+  </channel>
+</playlist>
